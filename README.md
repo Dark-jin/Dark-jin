@@ -3,10 +3,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark-jin&show_icons=true&theme=merko)
 
-<h2 align="center"> 💻  Tech Stacks 💻</h2>
+<h2> 💻  Tech Stacks 💻</h2>
 
-<h3 align="center">Techs i've used least one</h3>
-<p align="center">
+<h3>Techs i've used least one</h3>
+<p>
     <img alt="React" src
     ="http://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
     <img alt="Html" src
