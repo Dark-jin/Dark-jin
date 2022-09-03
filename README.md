@@ -1,5 +1,5 @@
-# Frontend Developer
-## Dark-jin
+<h1 align="center">Frontend Developer</h1>
+<h2 align="center">Dark-jin</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark-jin&show_icons=true&theme=merko)
 
@@ -17,6 +17,5 @@
     ="http://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
 </p>
 
-<align="center">
+
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-jin&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-</>
